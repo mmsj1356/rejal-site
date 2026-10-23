@@ -1,4 +1,4 @@
-const ADMIN_PASSWORD = "1234";
+const ADMIN_PASSWORD = "1378165519";
 const WHATSAPP_URL = "https://wa.me/989203028490";
 const RUBIKA_URL = "https://rubika.ir/joinc/FHADDBJI0CBMBUFJVWSSOQUTIPXYOHOA";
 const RUBIKA_ID = "@Mrejalco";
